@@ -41,10 +41,10 @@ Below are some notable projects I have worked on. You can find more details and 
    - Technologies: c++
    - GitHub Repository: https://github.com/Jolitechrdcoder/PROYECTO-ELEC-INDUSTRIAL
 
-2. Project Name: PERLA IA
+2. Project Name: Xor
    - Description: personal assistant
    - Technologies: python and c++
-   - GitHub Repository: unknow for now
+   - GitHub Repository: https://github.com/Jolitechrdcoder/proyectos
 
 
 
